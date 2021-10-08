@@ -1,0 +1,223 @@
+@media (min-width:1240px) {
+
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1350px;
+  }
+
+}
+
+@media only screen and (max-width: 600px) {
+
+  .banner {
+    padding-top: 100px;
+  }
+
+  .navbrandresp {
+    position: absolute;
+    left: 50%;
+    margin-left: -50px !important;
+    display: block;
+  }
+
+  .navbar-toggler {
+    margin-top: 30px;
+  }
+
+  .banner p {
+    padding-bottom: 50px;
+  }
+
+  .infop p {
+    font-size: 24px;
+    line-height: 35px;
+  }
+
+  .banner h1 {
+    line-height: 35px;
+    padding-bottom: 20px;
+  }
+
+  .togglerresp {
+    float: right;
+
+  }
+
+
+
+  .aboutusresp {
+    display: flex;
+    flex-direction: column-reverse;
+    padding-bottom: 30px;
+  }
+
+  .rightsection img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .aboutus {
+    margin-top: 30px;
+    text-align: center;
+
+  }
+
+  body {
+    text-align: center;
+  }
+
+  .cctvwrapper {
+    margin-top: 30px;
+  }
+
+  .try {
+    padding-top: 30px;
+  }
+
+  .navresp {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .contactus {
+    padding-bottom: 30px;
+  }
+
+  .ourservices {
+
+    padding-bottom: 30px;
+  }
+
+  .serviceimage {
+    padding-top: 30px;
+  }
+
+
+  .footer p {
+    font-size: 14px;
+  }
+
+  .ulstyle {
+    margin-left: 0;
+  }
+
+  .ulstyle>li {
+    padding-right: 0px;
+    padding-top: 30px;
+  }
+}
+
+
+@media screen and (min-width:601px) and (max-width: 991px) {
+
+  body {
+    text-align: center;
+  }
+
+
+  .banner {
+    padding-top: 80px;
+  }
+
+  .banner p {
+    padding-bottom: 60px;
+  }
+
+  .aboutusresp {
+    display: flex;
+    flex-direction: column-reverse;
+    padding-bottom: 40px;
+  }
+
+  .rightsection img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .aboutus {
+    margin-top: 50px;
+
+  }
+
+  .try {
+    padding-top: 40px;
+  }
+
+  .contactus {
+    padding-bottom: 40px;
+
+  }
+
+  .ourservices {
+
+    padding-bottom: 40px;
+  }
+
+  .cctvwrapper {
+    margin-top: 40px;
+  }
+
+  .ulstyle {
+    margin-left: 0;
+  }
+
+  .ulstyle>li {
+    padding-right: 0px;
+  }
+}
+
+
+
+@media screen and (min-width:992px) and (max-width: 1199px) {
+
+  .ulstyle {
+    margin-left: 100px;
+  }
+
+  .ulstyle>li {
+    color: #F2F2F2;
+    ;
+    font-size: 16px;
+    padding-right: 80px;
+    font-weight: 300;
+  }
+
+
+  .cctvresp {
+    margin-top: 30px;
+  }
+
+
+  .cctvwrapper {
+    margin-top: 50px;
+  }
+
+  .contactus {
+    padding-bottom: 40px;
+  }
+
+}
+
+@media only screen and (max-width: 439px) {
+  .callbtn {
+    width: 240px;
+  }
+
+
+
+}

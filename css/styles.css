@@ -1,0 +1,140 @@
+body {
+    font-family: Montserrat;
+    margin: 0;
+    background-color: #F2F2F2;
+}
+
+.ulstyle {
+    margin-left: 178px;
+}
+
+.ulstyle>li {
+    color: #F2F2F2;
+    ;
+    font-size: 16px;
+    padding-right: 109px;
+    font-weight: 300;
+}
+
+.navdiv ul li a {
+    font: normal normal normal 16px Montserrat;
+    color: #F2F2F2;
+}
+
+.callbtn {
+    min-width: 256px;
+    height: 54px;
+    background-color: #43D264;
+    background-image: url(../images/Group\ 13.png);
+
+}
+
+.banner {
+    background-image: url(../images/Group\ 14.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 117px;
+
+}
+
+.banner h1 {
+    color: #F2F2F2;
+    font: normal normal 600 39px;
+    line-height: 52px;
+}
+
+.banner p {
+    font: normal normal normal 18px Montserrat;
+    line-height: 26px;
+    padding-bottom: 130px;
+}
+
+.infop p {
+    font: normal normal bold 32px Montserrat;
+    line-height: 59px;
+    color: #838383;
+}
+
+.aboutus {
+    margin-top: 143px;
+}
+
+.leftsection h1 {
+    font-size: 26px;
+    font-weight: 400;
+    color: #2C2C2C;
+}
+
+.leftsection p {
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 10;
+    color: #838383;
+    line-height: 24px;
+
+}
+
+.leftsection h3 {
+    font-size: 20px;
+    font-weight: 400;
+    color: #2C2C2C;
+
+}
+
+.cctvwrapper {
+    margin-top: 143px;
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
+    text-decoration: underline #43D264 2px;
+
+}
+
+a:active {
+    color: yellow;
+}
+
+.callbtn {}
+
+.callbtn:hover {
+    border: 2px #F2F2F2 solid;
+}
+
+.contactus {
+    padding-bottom: 150px;
+}
+
+.ourservices {
+    background-color: #2C2C2C;
+    padding-bottom: 121px;
+}
+
+.serviceimage {
+    padding-top: 100px;
+}
+
+.ourservices p {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 35px;
+    color: #F2F2F2;
+    padding-top: 10px;
+}
+
+footer {
+    background-color: #575757;
+}
+
+footer p {
+    font: normal normal normal 14px Montserrat;
+
+    color: #FFFFFF;
+
+}
+
+.iconup {
+    margin-right: 15px;
+}
